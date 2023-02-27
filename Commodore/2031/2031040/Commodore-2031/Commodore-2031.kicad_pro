@@ -377,7 +377,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "error",
@@ -487,6 +487,10 @@
     [
       "882d1050-e467-458c-aabe-cad74417742a",
       "DriveSelectIEEE"
+    ],
+    [
+      "42848908-bd55-4e39-a607-ce7f74b344c1",
+      "CPUMemoryPowerClock"
     ]
   ],
   "text_variables": {}
