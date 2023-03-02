@@ -1482,10 +1482,10 @@
       )
     )
     (symbol "Commodore-2031:LM555" (in_bom yes) (on_board yes)
-      (property "Reference" "U" (at 0 0 0)
+      (property "Reference" "U" (at 0 2.54 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "" (at 0 -2.54 0)
+      (property "Value" "LM555" (at 0 0 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (at 0 -2.54 0)
@@ -1938,6 +1938,7 @@
       )
     )
   )
+
 
   (junction (at 40.64 96.52) (diameter 0) (color 0 0 0 0)
     (uuid 03fac7b3-0261-48a2-b11a-6e1921e554c9)
