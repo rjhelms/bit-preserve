@@ -200,9 +200,9 @@
     (uuid fe741ef0-df1b-4a77-993e-1efcc8be2000)
   )
 
-  (text "Notes:\n\n1. To comply with KiCad's annotation convention, designators are \"flipped\" compared to the original schematic.\n     e.g. designator \"U5M\" has been captured as \"UM5\""
-    (at 19.05 36.83 0)
-    (effects (font (size 2.54 2.54)) (justify left bottom))
+  (text "Notes:\n\n1. To comply with KiCad's annotation convention, designators are \"flipped\" compared to the original schematic.\n     e.g. designator \"U5M\" has been captured as \"UM5\"\n\n\nTodo:\n\n1. Place unused sections (at least power) and bypass caps on a new sheet\n2. Figure out where +12VF comes in?\n3. Final determination about ground symbols"
+    (at 17.78 39.37 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 843abcaf-3541-4aaf-818b-0b6e82dcc84b)
   )
 
@@ -393,7 +393,7 @@
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "Sheet2-DriveSelectIEEE.kicad_sch" (at 201.93 100.9146 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
+      (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "~{IRQ}" output (at 201.93 93.98 180)
       (effects (font (size 1.27 1.27)) (justify left))
