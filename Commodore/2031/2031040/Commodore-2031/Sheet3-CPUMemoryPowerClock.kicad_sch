@@ -2408,7 +2408,6 @@
     )
   )
 
-
   (junction (at 317.5 176.53) (diameter 0) (color 0 0 0 0)
     (uuid 030cc68c-e78f-47ed-84fa-544e4b328042)
   )
@@ -6313,32 +6312,6 @@
       (project "Commodore-2031"
         (path "/4559151c-aecb-4a2a-972f-dcb7dcb5a3dc/42848908-bd55-4e39-a607-ce7f74b344c1"
           (reference "#PWR048") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:C_Small") (at 127 269.24 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 4beecd7d-3df5-479b-a206-f60fc13a14c2)
-    (property "Reference" "C7-10,12-18,20-25,33-37,40-43" (at 129.54 268.6113 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" ".1" (at 129.54 271.1513 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "" (at 127 269.24 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 127 269.24 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid f930bfc7-c9f6-4c15-8717-abd9f2890db9))
-    (pin "2" (uuid 7d6a3832-917e-4b10-904b-aad9acb407f1))
-    (instances
-      (project "Commodore-2031"
-        (path "/4559151c-aecb-4a2a-972f-dcb7dcb5a3dc/42848908-bd55-4e39-a607-ce7f74b344c1"
-          (reference "C7-10,12-18,20-25,33-37,40-43") (unit 1)
         )
       )
     )

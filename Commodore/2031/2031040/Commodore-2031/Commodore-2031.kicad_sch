@@ -487,6 +487,23 @@
     )
   )
 
+  (sheet (at 101.6 154.94) (size 27.94 19.05) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c95a4b95-a926-4a18-84fc-0026aa7065da)
+    (property "Sheetname" "CapacitorsPowerUnits" (at 101.6 154.2284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "CapacitorsPowerUnits.kicad_sch" (at 101.6 174.5746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Commodore-2031"
+        (path "/4559151c-aecb-4a2a-972f-dcb7dcb5a3dc" (page "6"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )

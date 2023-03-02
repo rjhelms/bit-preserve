@@ -495,6 +495,10 @@
     [
       "a976448e-b270-4ea7-bfe5-2f24cb6d757c",
       "StepperMotorRWAmplifier"
+    ],
+    [
+      "c95a4b95-a926-4a18-84fc-0026aa7065da",
+      "CapacitorsPowerUnits"
     ]
   ],
   "text_variables": {}
