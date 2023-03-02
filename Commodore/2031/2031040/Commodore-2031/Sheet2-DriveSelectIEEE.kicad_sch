@@ -8,6 +8,7 @@
     (title "Device Selection / Power On Reset / IEEE Interface")
     (comment 1 "Schematic 203138")
     (comment 2 "PCB Assembly 2031040")
+    (comment 4 "captured from original service manual by @rjhelms")
   )
 
   (lib_symbols
@@ -2154,6 +2155,8 @@
   )
 
   (no_connect (at 68.58 109.22) (uuid 3d4377bd-2419-4da9-9e2f-65c0b292e2f5))
+  (no_connect (at 69.85 91.44) (uuid 49e7ab0e-d2f3-47c1-b731-78c231fa59ca))
+  (no_connect (at 69.85 71.12) (uuid bb61678c-bb02-434f-a91a-c882cbcc8ce1))
 
   (bus_entry (at 74.93 53.34) (size 2.54 -2.54)
     (stroke (width 0) (type default))

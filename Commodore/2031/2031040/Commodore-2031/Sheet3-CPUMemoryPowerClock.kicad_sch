@@ -4,6 +4,12 @@
 
   (paper "A3")
 
+  (title_block
+    (comment 1 "Schematic 203138")
+    (comment 2 "PCB Assembly 2031040")
+    (comment 4 "captured from original service manual by @rjhelms")
+  )
+
   (lib_symbols
     (symbol "74xx:7400" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 0 1.27 0)

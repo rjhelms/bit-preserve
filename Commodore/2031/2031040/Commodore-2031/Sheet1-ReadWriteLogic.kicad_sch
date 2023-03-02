@@ -8,6 +8,7 @@
     (title "Read/Write Logic")
     (comment 1 "Schematic 203138")
     (comment 2 "PCB Assembly 2031040")
+    (comment 4 "captured from original service manual by @rjhelms")
   )
 
   (lib_symbols
@@ -2148,10 +2149,10 @@
       )
     )
     (symbol "Commodore-2031:6522" (in_bom yes) (on_board yes)
-      (property "Reference" "UJ3" (at 0 39.37 0)
+      (property "Reference" "U" (at 0 0 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "6522" (at 0 36.83 0)
+      (property "Value" "6522" (at 0 20.32 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (at 0 20.32 0)
