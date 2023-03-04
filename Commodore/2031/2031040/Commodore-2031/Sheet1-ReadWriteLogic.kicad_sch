@@ -4160,6 +4160,10 @@
     (uuid ff6a43d7-916d-4e71-8dec-f20241ad1953)
   )
 
+  (text "U3K is 74LS245 in parts list\n(equivalent?)" (at 140.97 20.32 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid bfafc0ab-fee9-409c-8105-ad475ab88c8c)
+  )
   (text "READ/WRITE LOGIC" (at 175.26 256.54 0)
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid f0f19918-ec47-45a3-a37e-5e1bcf964215)
